@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#16352a"/>
+  <rect x="8" y="8" width="48" height="48" rx="6" fill="none" stroke="#f3efe3" stroke-opacity=".45"/>
+  <text x="32" y="43" text-anchor="middle" font-family="Songti SC, STSong, SimSun, serif" font-size="34" fill="#f6f2e8">据</text>
+  <rect x="45" y="45" width="5" height="5" rx="1" fill="#c08a3e"/>
+</svg>

@@ -1,0 +1,40 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# next.js
+/.next/
+/out/
+next-env.d.ts
+
+# production
+/build
+*.tsbuildinfo
+
+# testing
+/coverage
+/test-results
+/playwright-report
+
+# local env files
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# logs
+*.log
+npm-debug.log*
+
+# editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+
+# private material: never publish the resume or extracted text
+*.docx
+resume_extracted.txt
+
+# local mock / test artifacts
+/tmp/
